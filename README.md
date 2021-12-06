@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @BENICKI
+- 👀 I’m interested in learning Python and R language in GIS
+- 🌱 I’m currently learning basics of combining code on to QGIS platform
+- 💞️ I’m looking to collaborate on GIS projects
+- 📫 How to reach me: via GitHub profile
